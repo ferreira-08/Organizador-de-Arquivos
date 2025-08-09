@@ -15,8 +15,5 @@ Este projeto automatiza a organização de arquivos em uma pasta, movendo-os par
 - Biblioteca `os`
 - Biblioteca `shutil`
 
-## 📦 Instalação
 
-1. Clone o repositório:
-   ```bash
    
