@@ -19,4 +19,4 @@ Este projeto automatiza a organização de arquivos em uma pasta, movendo-os par
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ferreira-08/Organizador-de-Arquivos.git
+   
